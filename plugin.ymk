@@ -1,0 +1,5 @@
+name: UserManager
+api: 3.0.0-Alpha10
+author: BLOCKSTORM_
+version: 1.0
+main: UM/BS/Main
